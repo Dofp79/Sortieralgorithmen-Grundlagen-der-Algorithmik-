@@ -10,7 +10,7 @@ So entsteht Schritt für Schritt eine sortierte Liste - genau wie beim Kartensor
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class InsertionSortVertraege {
+public class InsertionSort {
 
     public static void main(String[] args) {
         // Simulierter Vertragskataster mit zufällig unsortierten Vertragsdaten
