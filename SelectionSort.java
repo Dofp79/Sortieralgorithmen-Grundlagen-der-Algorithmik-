@@ -13,13 +13,13 @@ public class VertragsSortierung {
         // Verträge mit Zufallsdaten generieren
         String[] vertraege = generiereVertragsnamen(anzahlVertraege);
 
-        System.out.println("🔍 Vor dem Sortieren:");
+        System.out.println("Vor dem Sortieren:");
         printArray(vertraege);
 
         // Sortieren mit Selection Sort
         selectionSort(vertraege);
 
-        System.out.println("\n✅ Nach dem Sortieren:");
+        System.out.println("\n Nach dem Sortieren:");
         printArray(vertraege);
     }
 
