@@ -29,7 +29,9 @@ Enthaltene Algorithmen:
 
 ---
 
-Projektstruktur:
+## 📂 Projektstruktur
+
+```bash
 
 /Sortieralgorithmen-Grundlagen-der-Algorithmik
  ├── BubbleSort.java
@@ -38,7 +40,7 @@ Projektstruktur:
  ├── QuickSort.java
  ├── SelectionSort.java
  └── README.txt
-
+```
 ---
 
 Wie du die Algorithmen ausprobierst:
