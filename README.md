@@ -1,11 +1,11 @@
-Sortieralgorithmen – Grundlagen der Algorithmik
+## Sortieralgorithmen – Grundlagen der Algorithmik
 
 Dieses Repository enthält einfache und klassische Implementierungen grundlegender Sortieralgorithmen in Java.
 Es dient als Lern- und Übungsmaterial für Studierende, Entwicklerinnen und Entwickler sowie alle Interessierten an Algorithmik und Datenstrukturen.
 
 ---
 
-Enthaltene Algorithmen:
+## Enthaltene Algorithmen:
 
 - Bubble Sort
   Komplexität (Worst Case): O(n²)
@@ -43,7 +43,7 @@ Enthaltene Algorithmen:
 ```
 ---
 
-Wie du die Algorithmen ausprobierst:
+## Wie du die Algorithmen ausprobierst:
 
 1. Repository klonen:
    git clone https://github.com/DEINUSERNAME/Sortieralgorithmen-Grundlagen-der-Algorithmik.git
@@ -58,7 +58,7 @@ Wie du die Algorithmen ausprobierst:
 
 ---
 
-Lernziele:
+## Lernziele:
 
 - Verständnis für Vergleiche, Tauschoperationen und Rekursion
 - Analyse von Laufzeiten und Komplexität
@@ -67,7 +67,7 @@ Lernziele:
 
 ---
 
-Optionale Erweiterungen:
+## Optionale Erweiterungen:
 
 - Implementiere weitere Algorithmen wie HeapSort, ShellSort, CountingSort
 - Zeitmessungen einbauen (z. B. mit System.nanoTime())
@@ -75,11 +75,17 @@ Optionale Erweiterungen:
 
 ---
 
-Lizenz:
+## Lizenz:
 
 Dieses Projekt steht unter der MIT-Lizenz – freie Verwendung für Lern- und Lehrzwecke.
 
 ---
 
-Autor:
-Dofp79
+## 📫 Kontakt
+
+Fragen oder Feedback?  
+**Doniman F. Peña Parra**
+
+- 🌐 [GPT-Link zur Projektunterstützung](https://chatgpt.com/g/g-67f2ec205b0c819181790826b6abdad6-tutor-fur-betriebliche-informationssysteme)
+- 🔗 [LinkedIn-Profil ansehen](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
+- 📧 E-Mail: [dofp79@hotmail.com](mailto:dofp79@hotmail.com)
